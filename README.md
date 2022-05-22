@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pacifisity
 - 👀 I’m interested in FPS and RPG Games, Biology, Discord.py and Psychology.
 - 🌱 I’m currently learning Python
-- 🤖 I’m working on a Discord.py bot for my discord server and possibly a twitch bot for my twitch channel
+- 🤖 I’m working on a Discord.py bot for my discord server
 - 📫 Add me on discord Pacifisity#5587
 
 <!---

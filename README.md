@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Pacifisity
-- 👀 I’m interested in FPS and RPG Games, Biology, Python and Psychology.
-- 🌱 I’m currently learning Web Development
-- 🤖 I’m working on a Discord.py bot for my discord server and a webpage for a game in the future
-- 📫 Contact me on discord @Pacifisity#1266
+- 👋 Hi, I’m @Pacifisity, a programmer and cyber security enthusiast
+- 👀 I’m interested in Cubing, Gaming, Music, Reading, Gothic Literature & Psychology
+- 🌱 I’m currently learning Web Development and Cyber Security
+- 🤖 I’m working on a Discord bot for my discord server and a webpage for my own personal website
+- 📫 Contact me on discord @Pacifisity#1266 or through email Pacifisity@essence.community
